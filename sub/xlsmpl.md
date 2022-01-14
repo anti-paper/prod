@@ -1,4 +1,4 @@
-[Top](../index.html)
+[Top](../index.md)
 
 # Excel サンプルファイル大公開
 
