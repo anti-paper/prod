@@ -1,6 +1,6 @@
-code,name
-001,Excel
-002,Word
-003,PowerPoint
-004,Access
-005,Outlook
+code,name,price
+1,Excel,105
+2,Word,101
+3,PowerPoint,110
+4,Access,107
+5,Outlook,102
