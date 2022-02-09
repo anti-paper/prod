@@ -4,3 +4,5 @@
 # COBOL（OpenCOBOL）
 
 拡張子：「.cob」
+
++ [COBOLプログラムの構成](COBOL/COBOL_0001.md)
