@@ -4,3 +4,5 @@
 # Python
 
 拡張子：「.py」
+
++ [Pythonで扱う基本のデータ型](Python/Python_0001.md)
