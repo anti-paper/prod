@@ -9,5 +9,4 @@
 
 + [アセンブリ（MASM32）](languages/language_0001.md)
 + [COBOL（OpenCOBOL）](languages/language_0002.md)
-
-<!-- + [Python](languages/language_0003.md) -->
++ [Python](languages/language_0003.md)
