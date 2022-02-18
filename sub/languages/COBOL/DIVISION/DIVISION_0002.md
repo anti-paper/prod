@@ -22,8 +22,8 @@ eenvironmentとdivisionの間の空白数や改行の有無は自由（ピリオ
 <!-- ### 環境部に含まれる節
 
 |節名|節名（日本語）|省略可否|
-----|----|---- -->
-|configuration section|構成節|可|
+----|----|----
+|configuration section|構成節|可| -->
 
 <!-- |input-output section|入出力節|可| -->
 
