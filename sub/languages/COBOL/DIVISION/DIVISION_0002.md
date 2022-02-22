@@ -17,16 +17,12 @@
 
 先頭は必ずA領域スタート  
 他の部の宣言文が現れるまでが環境部となる  
-eenvironmentとdivisionの間の空白数や改行の有無は自由（ピリオドはdivisionの後ろに1か所だけ記述）
+environmentとdivisionの間の空白数や改行の有無は自由（ピリオドはdivisionの後ろに1か所だけ記述）
 
-<!-- ### 環境部に含まれる節
+### 環境部に含まれる節
 
 |節名|節名（日本語）|省略可否|
 ----|----|----
-|configuration section|構成節|可| -->
+|[configuration section](SECTION/SECTION_0001.md)|構成節|可|
 
 <!-- |input-output section|入出力節|可| -->
-
-<!-- #### 構成節 -->
-
-<!-- #### 入出力節 -->
