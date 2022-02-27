@@ -24,5 +24,4 @@ environmentとdivisionの間の空白数や改行の有無は自由（ピリオ�
 |節名|節名（日本語）|省略可否|
 ----|----|----
 |[configuration section](SECTION/SECTION_0001.md)|構成節|可|
-
-<!-- |input-output section|入出力節|可| -->
+|[input-output section](SECTION/SECTION_0002.md)|入出力節|可|
