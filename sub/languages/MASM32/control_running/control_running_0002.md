@@ -8,8 +8,7 @@
 + [\.if](#if)
 + [switch](#switch)
 + [switch$](#switch-1)
-
-<!-- + [\.while/\.repeat/for](#whilerepeatfor) -->
++ [\.while/\.repeat/for](#whilerepeatfor)
 
 ## \.if
 
@@ -88,4 +87,40 @@
             ; 式の結果がどのcaseの値にも一致しない場合実行される処理
     endswi$
 
-<!-- ## \.while/\.repeat/for -->
+## \.while/\.repeat/for
+
+繰り返し
+
+### \.while
+
+継続するか否かを判断する条件式を最初に評価（キーワード）
+
+#### 書式
+
+    .while （条件式）
+        ; 処理
+    .endw
+
+### \.repeat
+
+継続するか否かを判断する条件式を最後に評価（キーワード）
+
+#### 書式
+
+    .repeat
+        ; 処理
+    .until （条件式）
+
+### for
+
+指定したパラメータの数だけ繰り返し（マクロ）
+
+#### 書式
+
+    for パラメータを受け取る変数,パラメータ
+        ; 処理
+    endm
+
+パラメータを複数設定する場合、「,」で区切る  
+ループの進行に合わせて、指定したパラメータが順次変数に格納される  
+例えば、「item」という変数と、「Excel」、「Word」、「PowerPoint」というパラメータを指定した場合、1回目のループでは「Excel」、2回目には「Word」、3回目には「PowerPoint」が「item」に格納される
